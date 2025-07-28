@@ -80,15 +80,3 @@ PES University, Bangalore, India
 ## 🏫 Acknowledgements
 
 This research was conducted at the **Centre for Data Sciences & Applied Machine Learning (CDSAML), PES University** under the guidance of **Dr. Shylaja S S**. We thank the faculty and research mentors for their support and infrastructure.
-
-## 📜 Citation
-
-```bibtex
-@inproceedings{stacko-autotagging-2025,
-  title={Automating Tag Prediction in Stack Overflow Using Machine Learning and Deep Learning Techniques},
-  author={Sapkale, Riya C and Acharya, Pranav and Hegde, Shreya M and Kiran, Shreya and Joshi, Ashwini M},
-  year={2025},
-  institution={PES University},
-  journal={ICTIS 2025}
-}
-```
